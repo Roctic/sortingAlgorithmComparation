@@ -1,8 +1,0 @@
-1- Implimentar insertion sort
-2- Inplementar Buble sort
-3- Implementar Selecion sort
-4- Implementar Quick Sort 
-5- Implementar Merge Sort
-
-6- 3 Comparações de complexidade
-7- Notas de roda pe sobre o codigo
